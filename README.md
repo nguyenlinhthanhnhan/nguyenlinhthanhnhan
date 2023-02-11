@@ -26,5 +26,3 @@ Here are some ideas to get you started:
   + A bit of Angular 
   + Golang  
   + Misc: CI/CD with Jenkins, Linux bash shell
- 
-:books: Currently i'm learning Software Architecture
