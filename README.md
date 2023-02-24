@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 :man: My name is Nhan, fullname Nguyen Linh Thanh Nhan, was born in 1995.  
 :house: I live in Ho Chi Minh City, Viet Nam.  
 :star: :star: :star: I am a self-learning developer, that mean I don't have a university degree.  
-:sparkles: I started my first job from 2019 with Fresher .NET Developer position, and currently I working at SKYDEV COMPANY LIMITED as .NET Backend Developer.  
+:sparkles: I started my first job from 2019 with Fresher .NET Developer position.  
 :boom: My skills:  
   + NET Core 1.1 and upwards ( Idk old .NET Framework )
   + SQL Server, MongoDb
