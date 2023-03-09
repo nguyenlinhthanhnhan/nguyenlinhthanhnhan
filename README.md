@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   + A bit of Angular 
   + Golang  
   + Misc: CI/CD with Jenkins, Linux bash shell
+
+![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nhannguyen1295)
