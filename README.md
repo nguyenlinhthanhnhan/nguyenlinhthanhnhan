@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 :star: :star: :star: I am a self-learning developer, that mean I don't have a university degree.  
 :sparkles: I started my first job from 2019 with Fresher .NET Developer position.  
 :boom: My skills:  
-  + NET Core 1.1 and upwards ( Idk old .NET Framework )
-  + Microsoft SQL, MySQL, PostgreSQL, Azure CosmosDB
-  + NodeJS/NestJS
+  + NET Core 1.1 and upwards ( Idk old .NET Framework ), Entity Framework Core
+  + Microsoft SQL, MySQL, PostgreSQL, Azure CosmosDB, MongoDB
+  + NodeJS/NestJS, TypeORM
   + Golang  
   + Jenkins CI/CD
   + Linux shell script
+  + AWS Cloud (EC2, S3)
+  + Docker, Kubernetes
 
 ![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nhannguyen1295)
