@@ -15,20 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man: Hi there, I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
+:man: I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
 :house: I live in Ho Chi Minh City, Viet Nam.  
 🔭 I’m currently working on TVT Group at HCM City  
 :star: :star: :star: I am a self-learning developer, that mean I don't have an university degree.  
 :sparkles: I started my first job from 2019 with Fresher .NET Developer position. 
 
-:boom: My skills:  
-  + NET Core 1.1 and upwards ( Idk old .NET Framework ), Entity Framework Core
-  + Microsoft SQL, MySQL, PostgreSQL, Azure CosmosDB, MongoDB
-  + NodeJS/NestJS, TypeORM
-  + Golang  
-  + Jenkins CI/CD
-  + Linux shell script
-  + AWS Cloud (EC2, S3)
-  + Docker, Kubernetes
+---
 
+### My skills
+| Domain  | Skills |
+| ------------- | ------------- |
+| Language Programming  | C#, JavaScript/TypeScript, Go, C++, Elixir  |
+| Framework/Platform  | NET Core 1.1 and upwards ( Idk old .NET Framework )<br/>NodeJS/NestJS |
+| Database | Microsoft SQL<br/>MySQL<br/>PostgreSQL<br/>MongoDB<br/>Azure CosmosDB |
+| DevOps | Jenkins<br/>Docker<br/> |
+| Cloud | AWS Cloud |
+
+---
 ![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nhannguyen1295)
