@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 :house: I live in Ho Chi Minh City, Viet Nam.  
 🔭 I’m currently working on TVT Group at HCM City  
 :star: :star: :star: I am a self-learning developer, that mean I don't have an university degree.  
-:sparkles: I started my first job from 2019 with Fresher .NET Developer position.  
+:sparkles: I started my first job from 2019 with Fresher .NET Developer position. 
+
 :boom: My skills:  
   + NET Core 1.1 and upwards ( Idk old .NET Framework ), Entity Framework Core
   + Microsoft SQL, MySQL, PostgreSQL, Azure CosmosDB, MongoDB
