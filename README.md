@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 :man: Hi there, I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
 :house: I live in Ho Chi Minh City, Viet Nam.  
 🔭 I’m currently working on TVT Group at HCM City  
-:star: :star: :star: I am a self-learning developer, that mean I don't have a university degree.  
+:star: :star: :star: I am a self-learning developer, that mean I don't have an university degree.  
 :sparkles: I started my first job from 2019 with Fresher .NET Developer position.  
 :boom: My skills:  
   + NET Core 1.1 and upwards ( Idk old .NET Framework ), Entity Framework Core
