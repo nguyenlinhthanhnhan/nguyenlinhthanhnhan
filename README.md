@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man: My name is Nhan, fullname Nguyen Linh Thanh Nhan, was born in 1995.  
+:man: Hi there, I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
 :house: I live in Ho Chi Minh City, Viet Nam.  
 🔭 I’m currently working on TVT Group at HCM City  
 :star: :star: :star: I am a self-learning developer, that mean I don't have a university degree.  
