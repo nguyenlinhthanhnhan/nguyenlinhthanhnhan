@@ -22,15 +22,5 @@ Here are some ideas to get you started:
 :sparkles: I started my first job from 2019 with Fresher .NET Developer position. 
 
 ---
-
-### My skills
-| Domain  | Skills |
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlinhthanhnhan&theme=radical)|![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nguyenlinhthanhnhan&theme=radical&show_icons=true)|
 | ------------- | ------------- |
-| Language Programming  | C#, JavaScript/TypeScript, Go, C++, Elixir  |
-| Framework/Platform  | NET Core 1.1 and upwards ( Idk old .NET Framework )<br/>NodeJS/NestJS |
-| Database | Microsoft SQL<br/>MySQL<br/>PostgreSQL<br/>MongoDB<br/>Azure CosmosDB |
-| DevOps | Jenkins<br/>Docker<br/> |
-| Cloud | AWS Cloud |
-
----
-![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nguyenlinhthanhnhan)
