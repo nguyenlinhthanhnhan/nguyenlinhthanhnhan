@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 :man: I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
-:house: I live in Ho Chi Minh City, Viet Nam.  
-🔭 I’m currently working at HCM City  
-:star: :star: :star: I am a self-learning developer, that mean I don't have an university degree.  
-:sparkles: I started my first job from 2019 with Fresher .NET Developer position. 
+:house: I live in Ho Chi Minh City, Viet Nam and currently working at HCM City  
 
 ---
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlinhthanhnhan&theme=radical)|![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nguyenlinhthanhnhan&theme=radical&show_icons=true)|
