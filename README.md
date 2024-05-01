@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man: I'm Will, Vietnamese name is Nguyen Linh Thanh Nhan, was born in 1995. I am a Backend Developer  
+:man: I'm Nguyen Linh Thanh Nhan, call me Nhan or Will (english name), was born in 1995. I am a Backend Developer and currently i am a technical leader  
 :house: I live in Ho Chi Minh City, Viet Nam and currently working at HCM City  
 
 ---
